@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body{
+    margin:0;
+    padding:15px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+
+.Data{
+    text-align: center;
+}
+
+.posts {
+    text-align: left;
+    
+}
+
+.post {
+    border-bottom: 3px solid #000;
+    margin-bottom: 30px;
+}
+
+.post_body{
+    margin-bottom: 30px;
+}

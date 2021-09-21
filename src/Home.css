@@ -1,0 +1,22 @@
+.mains{
+    width: 100%;
+    /* background-color: gray; */
+    height: 87vh;
+}
+.bt{
+    width: 20px;
+    height: 40px;
+    margin-top: 20px;
+    background: black;
+    border: 1px solid black;
+    padding: 0 15px;
+    margin-left: 170px;
+    color: #FFF;
+    border-radius: 5px;
+    font-size: 16px;
+    
+}
+
+.upload{
+    text-align: center;
+}
